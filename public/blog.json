@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Exploring the Future of AI",
+      "title-img": "https://example.com/images/ai-future.jpg",
+      "cover-img": "https://i.ibb.co.com/TYW7FBN/OIP-1.jpg",
+      "author": "John Doe",
+      "posted-date": "2024-10-22",
+      "reading-time": "7 min",
+      "hashtags": ["#AI", "#FutureTech", "#Innovation"]
+    },
+    {
+      "id": 2,
+      "title": "The Art of Minimalism",
+      "title-img": "https://example.com/images/minimalism-art.jpg",
+      "cover-img": "https://example.com/images/minimalism-cover.jpg",
+      "author": "Jane Smith",
+      "posted-date": "2024-10-19",
+      "reading-time": "5 min",
+      "hashtags": ["#Minimalism", "#Design", "#Lifestyle"]
+    },
+    {
+      "id": 3,
+      "title": "Healthy Living in 2024",
+      "title-img": "https://example.com/images/healthy-living.jpg",
+      "cover-img": "https://example.com/images/healthy-cover.jpg",
+      "author": "Emily Johnson",
+      "posted-date": "2024-10-15",
+      "reading-time": "6 min",
+      "hashtags": ["#Health", "#Wellness", "#Fitness"]
+    },
+    {
+      "id": 4,
+      "title": "Traveling the World on a Budget",
+      "title-img": "https://example.com/images/travel-budget.jpg",
+      "cover-img": "https://example.com/images/travel-cover.jpg",
+      "author": "Michael Brown",
+      "posted-date": "2024-10-10",
+      "reading-time": "8 min",
+      "hashtags": ["#Travel", "#BudgetTravel", "#Adventure"]
+    },
+    {
+      "id": 5,
+      "title": "Mastering the Art of Coding",
+      "title-img": "https://example.com/images/coding-art.jpg",
+      "cover-img": "https://example.com/images/coding-cover.jpg",
+      "author": "Chris Lee",
+      "posted-date": "2024-10-05",
+      "reading-time": "10 min",
+      "hashtags": ["#Coding", "#Programming", "#SoftwareDevelopment"]
+    }
+  ]
+  
